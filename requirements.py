@@ -1,7 +1,7 @@
-streamlit 
+streamlit
 folium
-streamlit_folium
-pandas 
-numpy 
+streamlit-folium
+pandas
+numpy
 pillow
-plotly.express 
+plotly
