@@ -1,4 +1,3 @@
-requirements.txt
 streamlit 
 folium
 streamlit_folium
